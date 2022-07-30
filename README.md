@@ -1,11 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://mohacodes.io)
 <h1 align="center">Hi there 👋, I'm Mohamed Abdulmueen</h1>
-<h3 align="center">a passionate person at the start of his journey to become a Full Stack Developer.</h3>
+<h3 align="center">a passionate person at the start of his journey to become a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohacodes&label=Profile%20views&color=0e75b6&style=flat" alt="mohacodes" /> </p>
 
 
-<p align="left">
+<p align="left" style="margin-top:10px;">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
